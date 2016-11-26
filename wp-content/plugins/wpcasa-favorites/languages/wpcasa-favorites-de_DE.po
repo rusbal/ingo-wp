@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WPCasa Favorites\n"
+"POT-Creation-Date: 2015-11-10 14:08+0100\n"
+"PO-Revision-Date: 2015-11-10 14:56+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpcasa-favorites.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wpsight-favorites-admin.php:41
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: includes/admin/class-wpsight-favorites-admin.php:44
+msgid "Page"
+msgstr "Seite"
+
+#: includes/admin/class-wpsight-favorites-admin.php:45
+msgid "Please select the page that contains the favorites shortcode."
+msgstr "Bitte wählen Sie die Seiten mit dem Favoriten-Shortcode."
+
+#: includes/admin/class-wpsight-favorites-admin.php:50
+msgid "Label Add"
+msgstr "Hinzufügen"
+
+#: includes/admin/class-wpsight-favorites-admin.php:51
+msgid "Please enter the label for the add favorite button."
+msgstr "Bitte geben Sie die Beschriftung für den Hinzufügen-Button ein."
+
+#: includes/admin/class-wpsight-favorites-admin.php:54 wpcasa-favorites.php:315
+msgctxt "favorites button labels"
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/admin/class-wpsight-favorites-admin.php:57
+msgid "Label See"
+msgstr "Ansehen"
+
+#: includes/admin/class-wpsight-favorites-admin.php:58
+msgid "Please enter the label for the see favorite button."
+msgstr "Bitte geben Sie die Beschriftung für den Ansehen-Button ein."
+
+#: includes/admin/class-wpsight-favorites-admin.php:61 wpcasa-favorites.php:316
+msgctxt "favorites button labels"
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: includes/admin/class-wpsight-favorites-admin.php:64
+msgid "Cookie Expiry"
+msgstr "Cookie-Dauer"
+
+#: includes/admin/class-wpsight-favorites-admin.php:65
+msgid "Set the number of <strong>days</strong> a favorite listing is saved."
+msgstr "Bitte geben Sie die Anzahl von <strong>Tagen</strong> an, die ein Favorit gespeichert werden soll."
+
+#: includes/admin/class-wpsight-favorites-admin.php:71
+msgid "Badge"
+msgstr "Badge"
+
+#: includes/admin/class-wpsight-favorites-admin.php:72
+msgid "Set the format of the badge that displays the number of favorites."
+msgstr "Geben Sie das Badge-Format ein, in dem die Anzahl von Favoriten dargestellt wird."
+
+#: includes/admin/class-wpsight-favorites-admin.php:98
+#, php-format
+msgid "For premium support and seamless updates for %s please activate your license."
+msgstr "Für Premium-Support und automatische Updates für %s bitte einen gültigen Lizenzschlüssel eingeben."
+
+#: templates/listings-no.php:3
+msgid "Sorry, but you currently have no favorites."
+msgstr "Sie haben zur Zeit keine Favoriten."
+
+#: wpcasa-favorites-functions.php:136 wpcasa-favorites.php:277
+msgctxt "favorites page compare"
+msgid "Compare"
+msgstr "Vergleichen"
+
+#: wpcasa-favorites.php:258
+msgctxt "favorites page remove"
+msgid "&times;"
+msgstr "&times;"
+
+#: wpcasa-favorites.php:258
+msgctxt "favorites page remove"
+msgid "Remove"
+msgstr "Entfernen"
+
+#: wpcasa-favorites.php:301
+msgctxt "favorites page title"
+msgid "Favorites"
+msgstr "Favoriten"
+
+#. Plugin Name of the plugin/theme
+msgid "WPCasa Favorites"
+msgstr "WPCasa Favorites"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpcasa.com/downloads/wpcasa-favorites"
+msgstr "https://wpcasa.com/downloads/wpcasa-favorites"
+
+#. Description of the plugin/theme
+msgid "Let users save their favorite listings and compare them on a single page."
+msgstr "Nutzern die Möglichkeit geben Anzeigen als Favoriten zu speichern und vergleichen zu lassen."
+
+#. Author of the plugin/theme
+msgid "WPSight"
+msgstr "WPSight"
+
+#. Author URI of the plugin/theme
+msgid "http://wpsight.com"
+msgstr "http://wpsight.com"

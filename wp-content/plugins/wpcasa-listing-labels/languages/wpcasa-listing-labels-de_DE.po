@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WPCasa Listing Labels\n"
+"POT-Creation-Date: 2015-11-10 14:26+0100\n"
+"PO-Revision-Date: 2015-11-10 14:31+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpcasa-listing-labels.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:47
+msgid "Label Format"
+msgstr "Label-Format"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:48
+msgid ""
+"Set the format of the label that marks listing. <code>%label_text%</code> "
+"will be replaced with the corresponding label text and <code>%label_class%</"
+"code> with the CSS class (see below)."
+msgstr ""
+"Bitte geben Sie das Label-Format ein. <code>%label_text%</code> wird mit dem "
+"jeweiligen Label-Text und <code>%label_class%</code> mit der CSS-Klasse (s. "
+"unten) ersetzt."
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:54
+msgid "Label Type"
+msgstr "Label-Typ"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:55
+msgid "Select the type of label listings are highlighted with."
+msgstr "Bitte wählen Sie den Label-Typ mit dem Anzeigen hervorgehoben werden."
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:59
+#: includes/admin/class-wpsight-listing-labels-admin.php:126
+msgid "None"
+msgstr "Keinen"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:60
+msgid "Thumbnail Overlay"
+msgstr "Thumbnail-Overlay"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:61
+msgid "Before Title"
+msgstr "Vor dem Titel"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:62
+msgid "After Title"
+msgstr "Nach dem Titel"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:63
+msgid "Before Description"
+msgstr "Vor der Beschreibung"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:64
+msgid "After Description"
+msgstr "Nach der Beschreibung"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:76
+#: includes/admin/class-wpsight-listing-labels-admin.php:123
+msgid "Label"
+msgstr "Label"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:79
+#, php-format
+msgid "Use label CSS class <code>%s</code> to customize."
+msgstr "Mit der CSS-Klasse <code>%s</code> können Sie dieses Label anpassen."
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:88
+msgid "Labels"
+msgstr "Labels"
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:127
+msgid "Optionally select a label for this listing."
+msgstr "Wählen Sie optional ein Label für diese Anzeige."
+
+#: includes/admin/class-wpsight-listing-labels-admin.php:151
+#, php-format
+msgid ""
+"For premium support and seamless updates for %s please activate your license."
+msgstr ""
+"Für Premium-Support und automatische Updates für %s bitte einen gültigen "
+"Lizenzschlüssel eingeben."
+
+#: wpcasa-listing-labels-functions.php:20
+msgid "New"
+msgstr "Neu"
+
+#: wpcasa-listing-labels-functions.php:25
+msgid "Reduced"
+msgstr "Reduziert"
+
+#: wpcasa-listing-labels-functions.php:30
+msgid "Reserved"
+msgstr "Reserviert"
+
+#: wpcasa-listing-labels-functions.php:35
+msgid "Featured"
+msgstr "Featured"
+
+#: wpcasa-listing-labels-functions.php:40
+msgid "Off Market"
+msgstr "Unverfügbar"
+
+#: wpcasa-listing-labels-functions.php:45
+msgid "Investment"
+msgstr "Investment"
+
+#: wpcasa-listing-labels-functions.php:50
+msgid "On Show"
+msgstr "Offene Tür"
+
+#: wpcasa-listing-labels-functions.php:55
+msgid "Exclusive"
+msgstr "Exklusiv"
+
+#. Plugin Name of the plugin/theme
+msgid "WPCasa Listing Labels"
+msgstr "WPCasa Listing Labels"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpcasa.com/downloads/wpcasa-listing-labels"
+msgstr "https://wpcasa.com/downloads/wpcasa-listing-labels"
+
+#. Description of the plugin/theme
+msgid "Feature specific listings by visually highlighting them with a label."
+msgstr "Bestimmte Anzeigen mit einem Label optisch hervorheben."
+
+#. Author of the plugin/theme
+msgid "WPSight"
+msgstr "WPSight"
+
+#. Author URI of the plugin/theme
+msgid "http://wpsight.com"
+msgstr "http://wpsight.com"

@@ -1,0 +1,92 @@
+.wpsight-favorites-sc .listing {
+	position: relative;
+}
+
+.wpsight-favorites-sc .favorites-remove {
+	background-color: #ededed;
+	display: block;
+	line-height: 1;
+	padding: 2px 5px;
+	position: absolute;
+	right: 0;
+	text-decoration: none;
+	top: 0;
+}
+
+.rtl .wpsight-favorites-sc .favorites-remove {
+	left: 0;
+	right: auto;
+}
+
+a.listings-compare:focus {
+	outline: none;
+}
+
+/* WPSight Listing Actions
+================================================== */
+
+.wpsight-listing-action-favorites .favorites-see {
+	margin-right: 15px;
+	padding-right: 5px;
+	position: relative;
+}
+
+.rtl .wpsight-listing-action-favorites .favorites-see {
+	margin-left: 15px;
+	margin-right: 0;
+	padding-left: 5px;
+	padding-right: 0;
+}
+
+.wpsight-listing-action-favorites .favorites-see .badge {
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 1;
+	padding: 2px 4px;
+	position: absolute;
+	right: -15px;
+	text-align: center;
+	top: -5px;
+}
+
+.rtl .wpsight-listing-action-favorites .favorites-see .badge {
+	left: -15px;
+	right: auto;
+}
+
+/* WPSight Listing Compare
+================================================== */
+
+.wpsight-listing-section-compare {
+	display: none;
+}
+
+.wpsight-listing-compare {
+	margin-bottom: 20px;
+}
+
+.wpsight-listing-compare .listing-details-detail {
+	display: block;
+	padding: 5px;
+}
+
+.wpsight-listing-compare .listing-details-detail:nth-child(even) {
+	background-color: #ededed;
+}
+
+.wpsight-listing-compare .listing-details-label {
+	display: inline-block;
+	font-weight: bold;
+	width: 33%;
+}
+
+.listings-panel-action .listings-compare.open:before {
+	content: "\00d7";
+	display:inline-block;
+	padding-right: 2px;
+}
+
+.rtl .listings-panel-action .listings-compare.open:before {
+	padding-left: 2px;
+	padding-right: 0;
+}

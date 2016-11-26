@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WPCasa Expire Listings\n"
+"POT-Creation-Date: 2015-11-10 13:56+0100\n"
+"PO-Revision-Date: 2015-11-10 14:06+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpcasa-expire-listings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:59
+#: includes/admin/class-wpsight-expire-listings-admin.php:84
+msgid "Listing Duration"
+msgstr "Anzeigendauer"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:61
+msgid ""
+"Set the number of <strong>days</strong> a listing is live before expiring. "
+"Leave blank to never expire."
+msgstr ""
+"Bitte geben Sie die Anzahl von <strong>Tagen</strong> an, die eine Anzeige "
+"aktiv sein soll. Leer lassen, um Anzeigen nicht auslaufen zu lassen."
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:86
+msgid ""
+"Set the number of <strong>days</strong> a listing submitted through "
+"dashboard is live before expiring. Leave blank to never expire."
+msgstr ""
+"Bitte geben Sie die Anzahl von <strong>Tagen</strong> an, die eine Dashboard-"
+"Anzeige aktiv sein soll. Leer lassen, um Anzeigen nicht auslaufen zu lassen."
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:113
+#: wpcasa-expire-listings.php:123
+msgid "Expires"
+msgstr "Läuft aus"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:116
+msgid "Once this listing expires it will no longer be visible on the website."
+msgstr ""
+"Wenn die Anzeige ausläuft, wird sich nicht mehr auf der Website sichtbar "
+"sein."
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:148
+#: includes/admin/class-wpsight-expire-listings-admin.php:181
+#: includes/admin/class-wpsight-expire-listings-admin.php:182
+msgid "Relist"
+msgstr "Wieder einstellen"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:148
+#: includes/admin/class-wpsight-expire-listings-admin.php:178
+#: includes/admin/class-wpsight-expire-listings-admin.php:179
+msgid "Expire"
+msgstr "Auslaufen lassen"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:428
+#, php-format
+msgid "%s have now expired"
+msgstr "%s sind nun ausgelaufen"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:433
+#, php-format
+msgid "%s have been relisted"
+msgstr "%s wurden nun wieder eingestellt"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:440
+#, php-format
+msgid "%s has now expired"
+msgstr "%s ist nun ausgelaufen"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:442
+#, php-format
+msgid "%s has been relisted"
+msgstr "%s ist nun wieder eingestellt"
+
+#: includes/admin/class-wpsight-expire-listings-admin.php:464
+#, php-format
+msgid ""
+"For premium support and seamless updates for %s please activate your license."
+msgstr ""
+"Für Premium-Support und automatische Updates für %s bitte einen gültigen "
+"Lizenzschlüssel eingeben."
+
+#: wpcasa-expire-listings.php:159
+#, php-format
+msgid "%s left"
+msgstr "%s übrig"
+
+#: wpcasa-expire-listings.php:292 wpcasa-expire-listings.php:293
+msgctxt "listing post status"
+msgid "Expired"
+msgstr "Ausgelaufen"
+
+#: wpcasa-expire-listings.php:298
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] "Ausgelaufen <span class=\"count\">(%s)</span>"
+msgstr[1] "Ausgelaufen <span class=\"count\">(%s)</span>"
+
+#. Plugin Name of the plugin/theme
+msgid "WPCasa Expire Listings"
+msgstr "WPCasa Expire Listings"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpcasa.com/downloads/wpcasa-expire-listings"
+msgstr "https://wpcasa.com/downloads/wpcasa-expire-listings"
+
+#. Description of the plugin/theme
+msgid ""
+"Expire listings manually or automatically after a number of days that can be "
+"defined in the add-on settings."
+msgstr ""
+"Anzeigen manuell oder nach einer in den Einstellungen festgelegten Anzahl "
+"von Tagen auslaufen lassen."
+
+#. Author of the plugin/theme
+msgid "WPSight"
+msgstr "WPSight"
+
+#. Author URI of the plugin/theme
+msgid "http://wpsight.com"
+msgstr "http://wpsight.com"

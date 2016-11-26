@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpCasa Currency v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-09 11:05:00+0000\n"
+"Last-Translator: admin <simon@wpcasa.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/widget.php:28
+#@ wpcasa-currency
+msgid "wpCasa currency converter drop down select"
+msgstr "Seletor para o conversor de moedas wpCasa"
+
+#: lib/widget.php:29
+#@ wpcasa-currency
+msgid "Currency Converter"
+msgstr "Conversor de Moedas"
+
+#: lib/widget.php:93
+#@ wpcasa-currency
+msgid "Title"
+msgstr "Titulo"
+
+#: lib/widget.php:98
+#@ wpcasa-currency
+msgid "Find more options for this widget on the theme settings page."
+msgstr "Encontre mais opções para este widget na página de ajustes do tema."
+
+#: lib/widget.php:101
+#@ wpcasa-currency
+msgid "Text before"
+msgstr "Texto anterior"
+
+#: lib/widget.php:104
+#@ wpcasa-currency
+msgid "Display text before currency select"
+msgstr "Mostrar texto antes do seletor de moedas"
+
+#: lib/widget.php:108
+#@ wpcasa-currency
+msgid "Text after"
+msgstr "Texto posterior"
+
+#: lib/widget.php:111
+#@ wpcasa-currency
+msgid "Display text after currency select"
+msgstr "Mostrar texto depois do seletor de moedas"
+
+#. translators: plugin header field 'Name'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "wpCasa Currency"
+msgstr "wpCasa Moedas"
+
+#. translators: plugin header field 'Description'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "AJAX-driven currency converter for wpCasa"
+msgstr "Conversor de moedas baseado em AJAX para wpCasa"
+
+#. translators: plugin header field 'Author'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "Walter Barcelos, Simon Rimkus"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "http://wpcasa.com"
+msgstr ""
+
+#: wpcasa-currency.php:32
+#@ wpcasa-currency
+msgid "Please make sure to install wpCasa theme to use the wpCasa Currency plugin."
+msgstr "Por favor, certifique-se de instalar o tema wpCasa para utilizar o plugin wpCasa Moedas."
+
+#: wpcasa-currency.php:105
+#@ wpcasa-currency
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: wpcasa-currency.php:240
+#@ wpcasa-currency
+msgid "Currency"
+msgstr "Moeda"
+
+#: wpcasa-currency.php:246
+#@ wpcasa-currency
+msgid "General Info"
+msgstr "Informação Geral"
+
+#: wpcasa-currency.php:247
+#@ wpcasa-currency
+msgid "There are different options to place the currency convert on your site. Select the options listed under Location, use the shortcode <code>[currency_converter]</code> or activate the wpCasa Currency Converter widget."
+msgstr "Existem diferentes opções para colocar o conversor de moedas em seu site. Selecione as opções listadas em Localização, utilize o shortcode <code>[currency_converter]</code> ou ative o widget wpCasa Conversor de Moedas."
+
+#: wpcasa-currency.php:252
+#@ wpcasa-currency
+msgid "Location"
+msgstr "Localização"
+
+#: wpcasa-currency.php:253
+#@ wpcasa-currency
+msgid "Please select the position of the currency selector."
+msgstr "Por favor seleccione a posição do seletor de moedas."
+
+#: wpcasa-currency.php:257
+#@ wpcasa-currency
+msgid "Next to social icons"
+msgstr "Ao lado dos ícones sociais"
+
+#: wpcasa-currency.php:257
+#@ wpcasa-currency
+msgid "In header area"
+msgstr "No cabeçalho"
+
+#: wpcasa-currency.php:264
+#@ wpcasa-currency
+msgid "Available Currencies"
+msgstr "Moedas Disponíveis"
+
+#: wpcasa-currency.php:265
+#@ wpcasa-currency
+msgid "Selected currencies will appear in your currency converter drop down selector."
+msgstr "As moedas selecionadas  vão aparecer no seletor de moedas."
+
+#. translators: plugin header field 'PluginURI'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "http://wpcasa.com/plugin/wpcasa-currency"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wpcasa-currency.php:0
+#@ wpcasa-currency
+msgid "1.1"
+msgstr ""
+
